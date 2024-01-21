@@ -1,0 +1,25 @@
+/*background styling*/
+.grid{
+    width: 400px;
+    height: 600px;
+    background-image: url('./images/grid.jpeg');
+    position: relative;
+    font-size: 100px;
+    text-align: center;
+}
+
+/*doodler character styling*/
+.doodler{
+    width:87px;
+    height: 85px;
+    background-image: url('./images/klipartz.com.png');
+    position: absolute;
+}
+
+/*platform styling*/
+.platform{
+    width: 85px;
+    height: 15px;
+    background-image: url('images/PikPng.com_game-platform-png_4214594.png');
+    position: absolute;
+}
